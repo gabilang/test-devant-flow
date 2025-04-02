@@ -1,0 +1,4 @@
+[package]
+org = "fitnessbeasts"
+name = "scheduled_logger"
+version = "0.1.0"
